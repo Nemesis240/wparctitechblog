@@ -1,0 +1,6 @@
+li#accordion-section-cool_blog_slider_section,
+li#customize-control-cool_blog_recent_posts_title,
+li#customize-control-cool_blog_recent_posts_subtitle,
+li#customize-control-cool_blog_archive_layout_style {
+ display: none !important;
+}
